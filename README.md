@@ -4,11 +4,8 @@ I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira G
 Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge of Python. In addition, I am learning **Web development** and learned HTML, CSS and Bootstrap as of now!
 
 ### Tech Stack 
- ## HTML ## CSS ## Bootstrap ## C++ ## C 
 
-https://github-readme-stats.vercel.app/apigunjan-g=anuraghazra)](https://github.com/anuraghazra/github-readme-stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/gunjan-g=<USERNAME>&theme=<THEME_NAME>" />
+## HTML ## CSS ## Bootstrap ## C++ ## C 
 
 
 <!--

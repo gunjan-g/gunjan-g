@@ -5,15 +5,7 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 
 ### Tech Stack 
 
-#### HTML
-
-#### CSS 
-
-#### Bootstrap
-
-#### C++ 
-
-#### C 
+#### HTML CSS Bootstrap C++  C 
 
 
 <!--

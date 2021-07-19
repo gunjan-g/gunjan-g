@@ -3,12 +3,12 @@
 I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explre new fields.
 Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge of Python. In addition, I am learning **Web development** and learned HTML, CSS and Bootstrap as of now!
 
-<p align="center">### Tech Stack </p>
-<p align="center"> ## HTML ## CSS ## Bootstrap ## C++ ## C </p>
+### Tech Stack 
+ ## HTML ## CSS ## Bootstrap ## C++ ## C 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apigunjan-g=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/apigunjan-g=anuraghazra)](https://github.com/anuraghazra/github-readme-stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/gunjan-g=<USERNAME>&theme=<THEME_NAME>" />
 
 
 <!--

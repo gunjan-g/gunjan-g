@@ -16,14 +16,14 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 
 ## Github Stats  
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gunjan-g&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gunjan-g&show_icons=true&theme=tokyonight" /> &nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-g&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=gunjan-g&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=gunjan-g&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 <br/>  
 
 <div align="center">

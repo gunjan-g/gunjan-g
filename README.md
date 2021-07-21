@@ -23,7 +23,7 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <br/>
 
 <div align="center">
-<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=gunjan-g&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=gunjan-g&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 <br/>  
 
 <div align="center">

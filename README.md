@@ -1,4 +1,4 @@
-<div align= "center"> ### Hi there 👋 </div>
+### Hi there 👋 
 
 I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explre new fields.
 

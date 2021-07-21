@@ -13,8 +13,6 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
  </div>
- 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-g&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Stats  
 <div align="center">

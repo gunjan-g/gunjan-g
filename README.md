@@ -14,6 +14,10 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
  </div>
 
+<div align="center">  
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-g&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+
 ## Github Stats  
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gunjan-g&show_icons=true&theme=tokyonight" />
@@ -25,7 +29,7 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gunjan-g&&style=flat-square" align="center" />
 </div>  
-  
+
 
 <!--
 **gunjan-g/gunjan-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

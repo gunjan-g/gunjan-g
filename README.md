@@ -1,11 +1,18 @@
-### Hi there 👋
+<div align= "center"> ### Hi there 👋 </div>
 
 I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explre new fields.
+
 Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge of Python. In addition, I am learning **Web development** and learned HTML, CSS and Bootstrap as of now!
 
-## Tech Stack 
-
-#### HTML CSS Bootstrap C++  C 
+## Tech Stack  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+ </div>
 
 ## Github Stats  
 <div align="center">
@@ -15,6 +22,10 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gunjan-g&&style=flat-square" align="center" />
+</div>  
+  
 
 <!--
 **gunjan-g/gunjan-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

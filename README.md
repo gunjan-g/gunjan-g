@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi There 👋 
 
 I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explre new fields.
 
@@ -13,6 +13,19 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
  </div>
+ 
+## Connect With Me
+<div align="center">
+<a href="https://github.com/gunjan-g" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/gunjan-gupta-225713200/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/GunjanG_12" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 ## Github Stats  
 <div align="center">

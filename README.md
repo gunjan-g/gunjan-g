@@ -4,7 +4,7 @@ I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira G
 
 Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge of Python. In addition, I am learning **Web development** and learned HTML, CSS and Bootstrap as of now!
 
-## Tech Stack  
+## Tech Stack :woman_technologist:  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -14,7 +14,7 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
  </div>
  
-## Connect With Me
+## Connect With Me :people_holding_hands:
 <div align="center">
 <a href="https://www.linkedin.com/in/gunjan-gupta-225713200/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -27,7 +27,7 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 </a>
 </div>  
 
-## Github Stats  
+## Github Stats :chart_with_upwards_trend:
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=gunjan-g&show_icons=true&theme=tokyonight" /> &nbsp;
  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-g&)">

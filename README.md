@@ -4,6 +4,8 @@ I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira G
 
 Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge of Python. In addition, I am learning **Web development** and learned HTML, CSS and Bootstrap as of now!
 
+<br/>
+
 ## Tech Stack :woman_technologist:  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -13,6 +15,8 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
  </div>
+ 
+ <br/>
  
 ## Connect With Me :people_holding_hands:
 <div align="center">
@@ -26,6 +30,8 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
+
+<br/>
 
 ## Github Stats :chart_with_upwards_trend:
 <div align="center">

@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="![image](https://user-images.githubusercontent.com/81305824/127770102-fe916f8c-3715-4292-8d1b-111466388fb5.png)" width="50%">
+ </div>
+
 ## Hi There 👋 
 
 I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explre new fields.

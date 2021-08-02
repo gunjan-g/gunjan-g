@@ -46,6 +46,8 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
  
 <br/>
 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-g&layout=compact">
+
 <div align="center">
 <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=gunjan-g&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 <br/>  

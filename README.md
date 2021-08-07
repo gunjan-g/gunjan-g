@@ -53,7 +53,9 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
  <br/>
 
 <!-- 
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjan-g" alt="gunjan-g" /></a> </p>
+
 -->
 
 <div align="center">
@@ -63,7 +65,6 @@ Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge o
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gunjan-g&&style=flat-square" align="center" />
 </div>  
-
 
 <!--
 **gunjan-g/gunjan-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

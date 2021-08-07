@@ -6,7 +6,9 @@
 
 I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explre new fields.
 
-Currently, skilled with **C++**, a moderate knowledge of C and basic knowledge of Python. In addition, I am learning **Web development** and learned HTML, CSS and Bootstrap as of now!
+- 🛠 I’m currently focusing on Data Structures and Algorithms in C++
+- 💻 I am also learning Frontend Web Development.
+- 💬I’m looking forward to contribute to Open Source Projects.
 
 <br/>
 

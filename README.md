@@ -4,7 +4,7 @@
 ## Hi There 👋 
  </div>
 
-I'm **Gunjan Gupta**, a first year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explore new fields.
+I'm **Gunjan Gupta**, a sophomore pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explore new fields.
 
 - 🛠 I’m currently focusing on Data Structures and Algorithms in C++
 - 💻 I am also learning Frontend Web Development.

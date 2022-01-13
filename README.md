@@ -45,15 +45,15 @@ I'm **Gunjan Gupta**, a sophomore pursuing **B.Tech(IT)** from Indira Gandhi Del
 
 ## Github Stats :chart_with_upwards_trend:
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=gunjan-g&show_icons=true&theme=tokyonight" /> &nbsp;
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-g&)">
+ <!-- <img width="47%" src="https://github-readme-stats.vercel.app/api?username=gunjan-g&show_icons=true&theme=tokyonight" /> &nbsp; -->
+ <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-g&)">
 </div>
 
  
 <br/>
 
 <div align="center">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-g&layout=compact">
+<!-- <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-g&layout=compact"> -->
 </div>
  
  <br/>

@@ -7,7 +7,7 @@
 I'm **Gunjan Gupta**, a sophomore pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explore new fields.
 
 - 🛠 I’m currently focusing on Data Structures and Algorithms in C++
-- 💻 I am also learning Web Development and making some cool projects.
+- 💻 I am also learning Web Development and implementing it with projects.
 - 💬I’m looking forward to contribute to Open Source Projects.
 
 <br/>

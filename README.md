@@ -62,11 +62,7 @@ I'm **Gunjan Gupta**, a sophomore pursuing **B.Tech(IT)** from Indira Gandhi Del
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjan-g" alt="gunjan-g" /></a> </p>
 
--->
-
-<div align="center">
-<img width="65%" src="https://activity-graph.herokuapp.com/graph?username=gunjan-g&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
-<br/> 
+--> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gunjan-g&&style=flat-square" align="center" />

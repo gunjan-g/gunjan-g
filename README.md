@@ -61,7 +61,7 @@ I'm **Gunjan Gupta**, a sophomore pursuing **B.Tech(IT)** from Indira Gandhi Del
 <br/>
 
 <div align="center">
- <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-g">
+ <img width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gunjan-g&layout=compact&langs_count=8&theme=dracula">
 </div>
  
  <br/>

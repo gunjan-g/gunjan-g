@@ -4,7 +4,7 @@
 ## Hi There 👋 
  </div>
 
-I'm **Gunjan Gupta**, a sophomore pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explore new fields.
+I'm **Gunjan Gupta**, a final year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explore new fields.
 
 - 🛠 I’m currently focusing on Data Structures and Algorithms in C++
 - 💻 I am also learning Web Development and Android Development along with its implementation in projects.
@@ -36,7 +36,7 @@ I'm **Gunjan Gupta**, a sophomore pursuing **B.Tech(IT)** from Indira Gandhi Del
  
 <br/>
  
-## Connect With Me :people_holding_hands:
+## Connect With Me 
 <div align="center">
 <a href="https://www.linkedin.com/in/gunjan-gupta-225713200/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

@@ -4,13 +4,11 @@
 ## Hi There 👋 
  </div>
 
-I'm **Gunjan Gupta**, a final year student pursuing **B.Tech(IT)** from Indira Gandhi Delhi Technical University for Women, a tech enthusiast who loves to explore new fields.
+I'm **Gunjan Gupta**, a software engineer whose passion lies in using technology to solve complex problems and innovate. I've honed my programming skills to tackle real-world challenges, translating ideas into functional code that makes a tangible difference. My eagerness to learn and keep up with industry trends drives me to deliver high-quality, scalable software solutions that meet current and future needs. <br/>
 
-- 🛠 I’m currently focusing on Data Structures and Algorithms in C++
-- 💻 I am also learning Web Development and Android Development along with its implementation in projects.
-- 💬I’m looking forward to contribute to Open Source Projects.
+I am dedicated to making a positive impact through technology, thriving in collaborative settings where diverse teams come together to achieve shared objectives. I actively seek opportunities for continuous learning and personal growth, seeing them as essential to advancing my skills and leveraging technology effectively. <br/>
 
-<br/>
+This approach not only reflects my commitment to excellence in software engineering but also underscores my proactive approach to embracing new challenges and contributing meaningfully to technological advancements. <br/>
 
 ## Tech Stack :woman_technologist:  
 <div align="center">  
@@ -37,15 +35,9 @@ I'm **Gunjan Gupta**, a final year student pursuing **B.Tech(IT)** from Indira G
 <br/>
  
 ## Connect With Me 
-<div align="center">
+<div align="center"
 <a href="https://www.linkedin.com/in/gunjan-gupta-225713200/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- <a href="https://github.com/gunjan-g" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/GunjanG_12" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
 

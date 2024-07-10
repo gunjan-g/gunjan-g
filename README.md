@@ -4,11 +4,9 @@
 ## Hi There 👋 
  </div>
 
-I'm **Gunjan Gupta**, a software engineer whose passion lies in using technology to solve complex problems and innovate. I've honed my programming skills to tackle real-world challenges, translating ideas into functional code that makes a tangible difference. My eagerness to learn and keep up with industry trends drives me to deliver high-quality, scalable software solutions that meet current and future needs. <br/>
+I'm **Gunjan Gupta**, a software engineer whose passion lies in using technology to solve complex problems and innovate. My eagerness to learn and keep up with industry trends drives me to deliver high-quality, scalable software solutions that meet current and future needs. <br/>
 
 I am dedicated to making a positive impact through technology, thriving in collaborative settings where diverse teams come together to achieve shared objectives. I actively seek opportunities for continuous learning and personal growth, seeing them as essential to advancing my skills and leveraging technology effectively. <br/>
-
-This approach not only reflects my commitment to excellence in software engineering but also underscores my proactive approach to embracing new challenges and contributing meaningfully to technological advancements. <br/>
 
 ## Tech Stack :woman_technologist:  
 <div align="center">  
